@@ -52,7 +52,7 @@ To meet these needs we need:
 7. A quiz that provides some entertainment. 
 8. Links to more information about Wrestling. 
 9. Listings for events.
-10. Links to booking sites. 
+10. Links to booking sites. Potentially links for merchandise also. 
 11. Access to a newsletter. 
 12. A way to suggest changes to the site and features. 
 13. A way to track my score on the quiz or time myself. 
@@ -60,6 +60,25 @@ To meet these needs we need:
 
 ### High level needs and Trade-offs: 
 
+There were several needs identified from these stories, and in discussion wiht the client these were ranked from most to least timportant. 
 
+1. An attractive and well designed website with clear navigation. 
+2. An interractive quiz. 
+3. News sources for wrestling. 
+4. A way to search for events. 
+5. Mechandising opportunities. 
+6. A contact form for feedback. 
+7. Music to listen too whilst browsing. 
 
+These were taken and assessed against the limitiations of time and budget, and given related visibility / feasability scores (opportunity numbers relate to the above, and higher numbers are more important / feasible):
+
+| Opportunity      | Importance    | Viability     |
+| :-------------:   | :----------:  | :-----------: |
+| 1                | 5             | 5              |
+| 2                | 5             | 4              |
+| 3                | 4             | 4              |
+| 4                | 4             | 1              |
+| 5                | 3             | 5              |
+| 6                | 2             | 5              |
+| 7                | 2             | 4              |
 
