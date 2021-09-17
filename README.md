@@ -79,6 +79,18 @@ These were taken and assessed against the limitiations of time and budget, and g
 | 3                | 4             | 4              |
 | 4                | 4             | 1              |
 | 5                | 3             | 5              |
-| 6                | 2             | 5              |
+| 6                | 4             | 5              |
 | 7                | 2             | 4              |
+
+From this it was claer there needed to be a little comprimise on the project, and to prioritise certian areas over others in the deployed project. An online shop wiht merchandising was agreed as a future goal and music something which would be good, but not essential in the initial product. 
+
+Therefore the key requirements are:
+* An attractive, well designed and easy to navigate site. 
+* Information about Wrestling, be that news and / or event listings. 
+* A quiz as an interractive element in the site. 
+* A contact form for feedback from users. 
+
+### Colour and Typography Design
+
+
 
