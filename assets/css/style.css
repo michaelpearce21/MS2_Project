@@ -21,7 +21,7 @@ body {
 }
 
 .bg-hero-container {
-    background-image: url(/assets/images/martin-knize-unsplash-hero-image.jpeg);
+    background-image: url(https://michaelpearce21.github.io/MS2_Project/assets/images/martin-knize-unsplash-hero-image.jpeg);
     background-repeat: no-repeat;
     background-position: top;
     width: 100%;
