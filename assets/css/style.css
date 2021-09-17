@@ -40,3 +40,8 @@ body {
 .card {
     display: flex;
 }
+
+.card-icons {
+    text-align: center;
+    font-size: large;
+}
