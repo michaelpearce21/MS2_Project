@@ -92,5 +92,11 @@ Therefore the key requirements are:
 
 ### Colour and Typography Design
 
+As design attraction and consistancy are important in this site, careful consideration should be given to the general appearance of the site and the feel of the text and colours. As the site is meant ot be accessible, it does not need lots of technical lanaguage or explainations suitable only to those with already existing Wrestling knowledge - the quiz will give the opportunity to show off knowledge in this case. 
 
+It was agreed with the client they wanted an overall dark feel to the website - partly due to the images they also wanted to include in it, which suit a darker overal aesthetic. Also westling is base don bold statement and action, and the choice of font should reflect this, with it being bold and impactful - whilst also readable. 
 
+In terms of colours, a proposed pallete was created using the ![coolers](www.coolors.com) website as seen below:
+
+* Proposed main color pallete
+![]
