@@ -96,7 +96,7 @@ As design attraction and consistancy are important in this site, careful conside
 
 It was agreed with the client they wanted an overall dark feel to the website - partly due to the images they also wanted to include in it, which suit a darker overal aesthetic. Also westling is base don bold statement and action, and the choice of font should reflect this, with it being bold and impactful - whilst also readable. 
 
-In terms of colours, a proposed pallete was created using the ![coolers](www.coolors.com) website as seen below:
+In terms of colours, a proposed pallete was created using the [coolors](http://www.coolors.com "Coolors website") website as seen below:
 
-* Proposed main color pallete
-![]
+![Proposed main color pallete](docs/images/contrast_dark.png "Proposed Fonts")
+
