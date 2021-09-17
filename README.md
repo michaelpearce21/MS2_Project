@@ -100,3 +100,9 @@ In terms of colours, a proposed pallete was created using the [coolors](http://w
 
 ![Proposed main color pallete](docs/images/contrast_dark.png "Proposed Fonts")
 
+I believe the high contrast of the fonts and the boldness of the colours add to the feeling of impact and boldness desired inthe website. 
+
+In terms of fonts, the selected styles are Bebas Neue for headings and Roboto for main content. This gives a good balance between being bold and impactful as well as maintaining good readability. I also expect writing to be lighter colours against darker backgrounds. 
+
+![Proposed fonts](docs/images/font_selection.png "Proposed Fonts")
+
