@@ -12,6 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #000000;
 }
 
 /*--------------------------------- Colours and backgrounds */
@@ -44,6 +45,36 @@ body {
 .button-index {
     background-color: #FCA311;
     color: #000000;
+}
+
+/*--------------------------------- Index page elements */
+
+.footer-setup {
+    background-color: #FCA311;
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: #000000;
+}
+
+.footer-setup .s-media-links > a {
+    font-size: 20px;
+    color: #000000;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+.list-items {
+    font-size: 20px;
+    color: #000000;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+.list-items > a {
+    text-decoration: none !important;
 }
 
 /*--------------------------------- Index page elements */
