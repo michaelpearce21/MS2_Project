@@ -20,6 +20,14 @@ body {
     background-color: #FCA311;
 }
 
+.bg-hero-container {
+    background-image: url(/assets/images/martin-knize-unsplash-hero-image.jpeg);
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 100%;
+    height: 100%;
+}
+
 /*--------------------------------- Nav Bar elements */
 
 .navbar-text {
