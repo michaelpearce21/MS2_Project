@@ -28,17 +28,30 @@ body {
     height: 100%;
 }
 
+.card {
+    background-color: #E5E5E5;
+    background-image: linear-gradient(#FFFFFF, #E5E5E5, #14213D);
+}
+
 /*--------------------------------- Nav Bar elements */
 
 .navbar-text {
     font-family: 'Bebas Neue', cursive;
-    font-size: 200%; 
+    font-size: 300%;
+}
+
+.button-index {
+    background-color: #FCA311;
+    color: #000000;
 }
 
 /*--------------------------------- Index page elements */
 
 .card {
     display: flex;
+    font-size: large;
+    text-align: center;
+    border-radius: 2rem;
 }
 
 .card-icons {
