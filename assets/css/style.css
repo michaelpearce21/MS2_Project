@@ -96,14 +96,12 @@ body {
 /* Some content from https://www.sitepoint.com/simple-javascript-quiz/ and modified for site */
 .question{
 	font-weight: 600;
-    color: #E5E5E5;
 }
 .answers {
   margin-bottom: 20px;
 }
 .answers label{
   display: block;
-  color: #E5E5E5;
 }
 
 #submit{
@@ -120,4 +118,11 @@ body {
 
 #submit:hover{
 	background-color: #38a;
+}
+
+.container_quiz {
+    background-color: #FFFFFF;
+    border-radius: 2%;
+    margin: 20px;
+    padding: 20px;
 }
