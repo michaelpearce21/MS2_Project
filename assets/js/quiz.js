@@ -1,34 +1,38 @@
+// Inspiration for quiz and some code from https://www.sitepoint.com/simple-javascript-quiz/
+
 const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
 const submitButton = document.getElementById('submit');
 const myQuestions = [
   {
-    question: "Who invented JavaScript?",
+    question: "Who was the first AEW World Champion?",
     answers: {
-      a: "Douglas Crockford",
-      b: "Sheryl Sandberg",
-      c: "Brendan Eich"
+      a: "Jon Moxley",
+      b: "Adam Page",
+      c: "Chris Jericho",
+      d: "Darby Allin"
     },
     correctAnswer: "c"
   },
   {
-    question: "Which one of these is a JavaScript package manager?",
+    question: "Who was the first AEW Womens World Champion?",
     answers: {
-      a: "Node.js",
-      b: "TypeScript",
-      c: "npm"
+      a: "Nyla Rose",
+      b: "Thunder Rosa",
+      c: "Riho",
+      d: "Britt Baker"
     },
     correctAnswer: "c"
   },
   {
-    question: "Which tool can you use to ensure code quality?",
+    question: "Who were the first AEW Tag Team Champions",
     answers: {
-      a: "Angular",
-      b: "jQuery",
-      c: "RequireJS",
-      d: "ESLint"
+      a: "SCU",
+      b: "The Young Bucks",
+      c: "The Lucha Brothers",
+      d: "Jurassic Express"
     },
-    correctAnswer: "d"
+    correctAnswer: "a"
   }
 ];
 
