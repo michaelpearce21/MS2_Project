@@ -1,4 +1,4 @@
-// Inspiration for quiz and some code from https://www.sitepoint.com/simple-javascript-quiz/
+// Inspiration for quiz and code from https://www.sitepoint.com/simple-javascript-quiz/ and modified for site
 
 const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
